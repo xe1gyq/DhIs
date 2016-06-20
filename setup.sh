@@ -2,6 +2,7 @@ echo "Welcome to Digital Home Intelligent System"
 
 git clone https://github.com/xe1gyq/DhIs.git
 cd DhIs/
+pip install pip --upgrade
 pip install -r requirements.pip
 sh requirements.opkg
 git clone https://github.com/xe1gyq/core.git
